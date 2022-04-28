@@ -11,3 +11,21 @@ shorter development time.
 
 #### Project Pictures and application description
 
+The homepage
+
+![alt text](https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a1.png)
+
+The admin pages
+
+![alt text](https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a2.png)
+
+![alt text](https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a3.png)
+
+![alt text](https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a4.png)
+
+<img src="https:/github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a5.png" width="100" height="100">
+
+<img src="https:/github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a6.png" width="100" height="100">
+
+
+
