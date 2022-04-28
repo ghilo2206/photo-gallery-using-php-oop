@@ -1,6 +1,6 @@
 # photo-gallery-using-php-oop
 On this project I build a simple photo gallery using php object oriented.It also includes an admin dashboard for adding, editing ,uploading
-and deleting photos.It gives the users the ability to login and comment on photos.You can use this clean code for your own projects.
+and deleting photos.It gives the users the ability to login and comment on photos.I also intergrated an API which allows for the upload of several photo in one shot.You can use this clean code for your own projects.
 
 ### Why choose PHP OOP
 
