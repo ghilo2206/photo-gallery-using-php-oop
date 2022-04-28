@@ -17,15 +17,7 @@ The homepage
 
 The admin pages
 
-![alt text](https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a2.png)
-
-![alt text](https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a3.png)
-
-![alt text](https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a4.png)
-
-<img src="https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a5.png" width="100">
-
-<img src="https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a6.png" width="100">
+<img src="https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a3.png" width="200"><img src="https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a4.png" width="200"><img src="https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a5.png" width="200"><img src="https://github.com/ghilo2206/photo-gallery-using-php-oop/blob/main/a6.png" width="200">
 
 
 
